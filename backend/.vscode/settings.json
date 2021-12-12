@@ -1,0 +1,10 @@
+{
+	"files.associations": {
+		"*.html": "php",
+		"*.htm": "php"
+	},
+	"editor.insertSpaces": false,
+	"editor.detectIndentation": false,
+	"editor.tabSize": 4,
+	//"php-docblocker.extra": [ "@author yourname <youremail>" ] //add this to your user settings
+}
